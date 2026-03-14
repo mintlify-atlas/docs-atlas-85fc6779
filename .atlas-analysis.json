@@ -1,0 +1,45 @@
+{
+  "projectType": "general",
+  "projectName": "Álvaro Navarro Pegalajar",
+  "projectDescription": "Personal portfolio and professional profile for Álvaro Navarro Pegalajar, a Multiplatform Application Developer student from Linares, Jaén.",
+  "theme": "almond",
+  "primaryColor": "#3b82f6",
+  "lightColor": "#60a5fa",
+  "darkColor": "#2563eb",
+  "navigation": {
+    "groups": [
+      {
+        "group": "About",
+        "pages": [
+          "introduction",
+          "background"
+        ]
+      },
+      {
+        "group": "Education",
+        "pages": [
+          "education/overview",
+          "education/skills"
+        ]
+      },
+      {
+        "group": "Projects",
+        "pages": [
+          "projects/overview"
+        ]
+      },
+      {
+        "group": "Contact",
+        "pages": [
+          "contact"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Multiplatform Application Development",
+    "Student at IES Oretania",
+    "Based in Linares, Jaén"
+  ],
+  "publicApiSurface": []
+}
